@@ -16,7 +16,7 @@ let package = Package(
     dependencies: [
         .package(name: "ZendeskChatProvidersSDK",
                  url: "https://github.com/DonkeyRepublic/chat_providers_sdk_ios",
-                 .exact("2.11.3")),
+                 .exact("2.11.4")),
         .package(name: "ZendeskMessagingSDK",
                  url: "https://github.com/stevenkramer/messaging_sdk_ios",
                  .exact("3.8.5"))
